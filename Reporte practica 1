@@ -1,0 +1,70 @@
+Objetivo de la práctica:
+El alumno conocerá y utilizará herramientas de software que ofrecen las Tecnologías de la Información y Comunicación que le permitan realizar actividades y trabajos académicos de forma organizada y profesional a lo largo de la vida escolar, tales como manejo de repositorios de almacenamiento y buscadores con funciones avanzadas. Además, propondría la incorporación de un objetivo adicional: la creación de carpetas de evidencias académicas o de contenido personal en nuestros repositorios, lo cual servirá como respaldo de nuestras actividades y contribuirá a la construcción de un portafolio de trabajo invaluable al concluir nuestros estudios y adentrarnos en el competitivo mundo laboral.
+Introducción:
+El empleo de dispositivos informáticos y sistemas de comunicación se torna esencial para llevar a cabo una amplia variedad de actividades, abarcando desde la vida diaria hasta el ámbito académico, profesional, empresarial e incluso de entretenimiento. Como futuros ingenieros, los estudiantes de esta disciplina necesitan adquirir habilidades y destrezas en el manejo de las Tecnologías de la Información y Comunicación (TIC) para respaldar tanto sus labores académicas como sus futuras carreras profesionales. De entre el vasto conjunto de herramientas TIC disponibles, en esta práctica nos enfocaremos en las que se destinan al manejo de repositorios de almacenamiento y en los motores de búsqueda avanzados en Internet.
+Desarrollo:
+-Búsquedas avanzadas con la temática de programación mediante comandos de búsqueda y herramientas de Google:
+Figura 1_ Comando or para excluir términos, en este caso, buscamos imágenes de programación o de matemáticas sin incluir imágenes de ingeniería:
+
+Figura 2_ Comando “” comillas para encontrar datos específicos, relacionados a un solo tema, en este caso buscamos todos los datos pertenecientes al desarrollo de páginas web:
+
+Figura 3_ Comando + para que agregue una palabra y arroje resultados que la incluya, como, por ejemplo, el desarrollo de páginas web y que sea en lenguaje C:
+
+
+
+Figura 4_ Comando Define para conocer el significado de una palabra, en este casom queremos saber el significado de la palabra programación:
+
+Figura 5_ Comando Site (sirve para buscar en un sitio específico) y Tilde (~ (buscar cosas relacionadas con una palabra) y .. (buscar en un intervalo de números). En este caso quiero encontrar en Platzi cursos de programar del 2022 a 2023:
+
+
+Figura 6_ Comandos Intitle (encuentra palabras como títulos), Intext (restringir resultados con un término específico) y Filetype (para obtener tipos de archivos en particular). En este caso quiero encontrar un documento pdf acerca de programación de aplicaciones y que se relacionen con el sistema operativo Android:
+
+
+Figura 7_ Herramienta Calculadora, simplemente agregamos la ecuación en la barra de búsqueda. En este caso quiero encontrar el resultado del seno de 2π radiantes más el coseno de π radianes:
+
+Figura 8_ Herramienta Convertidor de Unidades, obtiene la equivalencia entre dos sistemas de unidades, en este caso lo usaré para saber cuántos gigabytes equivaen a 1 terabyte.
+
+Figura 9 _ Herramienta de Gráficas en 2D, en este caso solamente debemos insertar una función en la barra de búsqueda. En este caso quiero saber la gráfica del seno de x desde el pi hasta pi
+
+
+Figura 10_ Herramienta Google Académico, al buscar “google scholar” o “google académico” encuentro un buscador especializado al mundo académico con archivos de distintas disciplinas en múltiples formatos.
+
+
+Figura 11_ Comando author, puedo filtrar resultados y que me arroje artículos, libros, etc, pero de una persona en específico. En este caso quiero resultados sobre algoritmos creados por Larry Page. Además, puedo ver características que Google Académico me permite modificar, como lo es el tipo de ordenamiento, fechas de emisión, idiomas, etc.
+
+Figura 12_ Herramienta Google Imágenes. permite realizar búsquedas a partir de imágenes que tengo almacenadas, en este caso buscaré resultados relacionados con mi imagen del logo de javascript.
+
+
+-Creación de un repositorio en Github:
+Figura 13_ Página de inicio en Github
+
+
+Figura 14_ Creando mi usuario, contraseña y así creando mi cuenta
+
+Figura 15_ Recibiendo el correo de confirmación y creando mi cuenta en Github
+
+Figura 16_ Homepage de mi cuenta
+
+Figura 17_ Inicio un proyecto
+
+Figura 18_ Creando un nuevo repositorio llamado (practica1_fdp)
+
+Figura 19_ Crea un nuevo archivo
+
+Figura 20_ Modifico este nuevo archivo llamándolo “datos”
+
+Figura 21_ Commit nuevo archivo
+
+Figura 22_ Confirmación de la modificación del archivo
+
+Figura 23_ Cargar archivos al nuevo proyecto, en este caso subiré el escudo de la
+facultad y de la Universidad.
+
+Figura 24_ Edito el archivo
+
+
+Figura 25_ Historial del Rrepositorio
+
+Figura 26_ Subo el actual archivo al repositorio. Y registro el commit como “Reporte práctica 1”:
+
+Figura 27_ Link del repositorio
